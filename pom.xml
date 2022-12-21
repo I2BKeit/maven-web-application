@@ -96,7 +96,7 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http:http://54.86.75.38:8081/repository/ik-testa-releas/</url>
+	      <url>http://54.86.75.38:8081/repository/ik-testa-releas/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
