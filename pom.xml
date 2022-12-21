@@ -96,13 +96,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://18.206.162.195:8081/repository/tesla-2-release/</url>
+	      <url>http:http://54.86.75.38:8081/repository/ik-testa-releas/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://18.206.162.195:8081/repository/tesla-snapshop/</url>
+	      <url>http://54.86.75.38:8081/repository/ik-testa-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
